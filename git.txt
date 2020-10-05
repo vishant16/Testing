@@ -1,0 +1,2 @@
+fork is copy of a project
+forking repo/proj allow us to make changes in original proj without changing main project
